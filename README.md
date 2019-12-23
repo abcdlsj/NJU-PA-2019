@@ -1,5 +1,5 @@
 # 20191224-2019210
-##　我准备假期做
+我准备假期做
 
 # ICS2019 Programming Assignment
 
